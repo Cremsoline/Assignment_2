@@ -1,0 +1,4 @@
+TEMPERATURE STABILITY (Standard Deviation)
+=============================================
+Largest SD: Station: WAGGA-WAGGA-AMO | STN_ID: 72150 | SD: 7.68°C
+Smallest SD: Station: DARWIN-AIRPORT | STN_ID: 14015 | SD: 0.71°C

@@ -1,0 +1,6 @@
+SEASONAL AVERAGE TEMPERATURES
+==============================
+In Summer the avg temp was 33°C
+In Autumn the avg temp was 28°C
+In Winter the avg temp was 22°C
+In Spring the avg temp was 28°C

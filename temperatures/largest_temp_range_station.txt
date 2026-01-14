@@ -1,0 +1,3 @@
+STATION WITH LARGEST TEMPERATURE DIFFERENCE
+=============================================
+Station: WAGGA-WAGGA-AMO | Difference: 22 °C
